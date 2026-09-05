@@ -9,6 +9,10 @@ There are spells, traps, supernatural enemies, and much much more!
 
 **The demo along with an official steam page will be out in October, so stay tuned!**
 
+Thanks for checking out the site!
+
+-Zach / puddlecast
+
 ---
 
 **Devlog**: [Read the latest updates](/blog/)
