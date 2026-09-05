@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<p><a href="{{ '/blog/' | relative_url }}">&larr; All posts</a></p>
+
+<h2>{{ page.title }}</h2>
+<p><small>{{ page.date | date: "%B %-d, %Y" }}</small></p>
+
+{{ content }}
+
+<hr>
+
+<p><a href="{{ '/blog/' | relative_url }}">&larr; All posts</a></p>

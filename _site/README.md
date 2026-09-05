@@ -11,6 +11,8 @@ There are spells, traps, supernatural enemies, and much much more!
 
 ---
 
+**Devlog**: [Read the latest updates](/blog/)
+
 **Email**: <zach@puddlecast.com>
 
 <div class="yt-wrap">
