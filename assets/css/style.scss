@@ -7,3 +7,48 @@
 p.view {
   display: none;
 }
+
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+// YouTube channel card
+.yt-card {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  max-width: 420px;
+  padding: 14px 16px;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+
+  &:hover {
+    border-color: #ff0000;
+    transform: translateY(-2px);
+  }
+
+  svg { flex: none; width: 40px; height: 28px; }
+
+  .yt-card-name {
+    font-weight: bold;
+    display: block;
+  }
+
+  .yt-card-sub {
+    font-size: 13px;
+    color: #777;
+    display: block;
+  }
+}
+
+// Spacing around the YouTube card
+.yt-wrap {
+  margin: 20px 0 40px;
+}
+
+// Steam variant of the card
+.steam-card:hover {
+  border-color: #171a21;
+}
