@@ -1,7 +1,9 @@
 # Welcome! ฅ₍^•⩊ •マⳊ
 
 
-<iframe src="https://giphy.com/embed/Gcfl6zhZdA0dT4zIhF" width="480" height="269" style="" frameBorder="0" allowFullScreen></iframe>
+<div class="gif-wrap">
+<iframe src="https://giphy.com/embed/Gcfl6zhZdA0dT4zIhF" width="480" height="269" frameBorder="0" allowFullScreen></iframe>
+</div>
 
 Cat duty is my latest, greatest, and first serious upcoming indie video game project. It takes place in a fantasy driven world, where you are hired to cat sit for two royal cats in a large mysterious castle. 
 

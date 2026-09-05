@@ -216,7 +216,9 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
 @media print { body { padding: 0.4in; font-size: 12pt; color: #444; } }
 p.view { display: none; }
 
-body { font-family: "Courier New", Courier, monospace; }
+body { font-family: "Courier New", Courier, monospace; font-size: 16px; line-height: 1.7; color: #333; }
+
+p { margin-bottom: 1.2em; }
 
 .yt-card { display: flex; align-items: center; gap: 14px; max-width: 420px; padding: 14px 16px; border: 2px solid #ddd; border-radius: 8px; text-decoration: none; color: inherit; transition: border-color 0.15s ease, transform 0.15s ease; }
 .yt-card:hover { border-color: #ff0000; transform: translateY(-2px); }
@@ -227,6 +229,9 @@ body { font-family: "Courier New", Courier, monospace; }
 .yt-wrap { margin: 20px 0 40px; }
 
 .steam-card:hover { border-color: #171a21; }
+
+.gif-wrap { max-width: 480px; margin: 0 0 20px; }
+.gif-wrap iframe { display: block; width: 100%; height: auto; aspect-ratio: 480 / 269; border: 0; }
 
 .post-list { list-style: none; padding: 0; }
 .post-list li { padding: 8px 0; border-bottom: 1px solid #eee; }
