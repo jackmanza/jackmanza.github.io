@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Hide the theme's auto-generated "View My GitHub Profile" link
+p.view {
+  display: none;
+}
