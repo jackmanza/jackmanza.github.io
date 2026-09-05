@@ -53,6 +53,20 @@ body {
   border-color: #171a21;
 }
 
+// Responsive GIF embed
+.gif-wrap {
+  max-width: 480px;
+  margin: 0 0 20px;
+
+  iframe {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 480 / 269;
+    border: 0;
+  }
+}
+
 // Devlog post list
 .post-list {
   list-style: none;
