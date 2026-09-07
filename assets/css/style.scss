@@ -55,6 +55,15 @@ p {
   margin: 20px 0 40px;
 }
 
+// Discord variant of the card
+.discord-card {
+  svg { width: 34px; height: 26px; }
+
+  &:hover {
+    border-color: #5865f2;
+  }
+}
+
 // Steam variant of the card
 .steam-card:hover {
   border-color: #171a21;
