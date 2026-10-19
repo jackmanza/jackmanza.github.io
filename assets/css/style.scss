@@ -64,6 +64,11 @@ p {
   }
 }
 
+// itch.io variant of the card
+.itch-card:hover {
+  border-color: #fa5c5c;
+}
+
 // Steam variant of the card
 .steam-card:hover {
   border-color: #171a21;
