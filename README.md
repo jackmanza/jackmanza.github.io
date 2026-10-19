@@ -5,11 +5,9 @@
 <iframe src="https://giphy.com/embed/Gcfl6zhZdA0dT4zIhF" width="480" height="269" frameBorder="0" allowFullScreen></iframe>
 </div>
 
-Cat duty is my latest, greatest, and first serious upcoming indie video game project. It takes place in a fantasy driven world, where you are hired to cat sit for two royal cats in a large mysterious castle. 
+You are hired to cat sit for two royal cats in a large mysterious castle, you have to project them cats at all cost!
 
-There are spells, traps, supernatural enemies, and much much more!
-
-**The demo along with an official steam page will be out in October, so stay tuned!**
+**The demo is out now on Itch.io!**
 
 Thanks for checking out the site!
 
@@ -17,9 +15,20 @@ Thanks for checking out the site!
 
 ---
 
-**Devlog**: [Read the latest updates](/blog/)
-
 **Email**: <zach@puddlecast.com>
+
+<div class="yt-wrap">
+<a class="yt-card itch-card" href="https://puddlecast.itch.io/cat-duty">
+<svg width="28" height="28" viewBox="0 0 24 24" aria-hidden="true">
+<path fill="#fa5c5c" d="M2 4 4 1h16l2 3v3a2.5 2.5 0 0 1-5 0 2.5 2.5 0 0 1-5 0 2.5 2.5 0 0 1-5 0 2.5 2.5 0 0 1-5 0Z"/>
+<path fill="#fa5c5c" fill-rule="evenodd" d="M4 10h16v12H4Zm6 12v-6h4v6Z"/>
+</svg>
+<span>
+<span class="yt-card-name">Cat Duty on itch.io</span>
+<span class="yt-card-sub">Free demo here! &rarr;</span>
+</span>
+</a>
+</div>
 
 <div class="yt-wrap">
 <a class="yt-card" href="https://www.youtube.com/@Puddlecast">
@@ -42,19 +51,6 @@ Thanks for checking out the site!
 <span>
 <span class="yt-card-name">Discord</span>
 <span class="yt-card-sub">Free voice acting needed. &rarr;</span>
-</span>
-</a>
-</div>
-
-<div class="yt-wrap">
-<a class="yt-card itch-card" href="https://puddlecast.itch.io/cat-duty">
-<svg width="28" height="28" viewBox="0 0 24 24" aria-hidden="true">
-<path fill="#fa5c5c" d="M2 4 4 1h16l2 3v3a2.5 2.5 0 0 1-5 0 2.5 2.5 0 0 1-5 0 2.5 2.5 0 0 1-5 0 2.5 2.5 0 0 1-5 0Z"/>
-<path fill="#fa5c5c" fill-rule="evenodd" d="M4 10h16v12H4Zm6 12v-6h4v6Z"/>
-</svg>
-<span>
-<span class="yt-card-name">Cat Duty on itch.io</span>
-<span class="yt-card-sub">Play it on itch.io &rarr;</span>
 </span>
 </a>
 </div>

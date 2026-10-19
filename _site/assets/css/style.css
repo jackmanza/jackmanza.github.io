@@ -231,6 +231,8 @@ p { margin-bottom: 1.2em; }
 .discord-card svg { width: 34px; height: 26px; }
 .discord-card:hover { border-color: #5865f2; }
 
+.itch-card:hover { border-color: #fa5c5c; }
+
 .steam-card:hover { border-color: #171a21; }
 
 .gif-wrap { max-width: 480px; margin: 0 0 20px; }
